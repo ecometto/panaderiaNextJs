@@ -3,7 +3,7 @@ import React from 'react'
 export default function Sucursales() {
     return (
         <div className="margin" id='sucursales'>
-            <h3 className="title"> CONOCE NUESTRAS SUCURSALES</h3>
+            <h3 className="title"> CONOCE NUESTRAS SUCURSALES...</h3>
 
             <div className="row">
                 <div className="col-lg-6 px-4 mb-5">
