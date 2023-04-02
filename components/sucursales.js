@@ -41,10 +41,10 @@ export default function Sucursales() {
 
             <div id="franquicias" className='text-center'>
                 <h3 className="title"> CONOCE NUESTRAS FRANQUICIAS</h3>
-                <p>las francquicias es una posibilidad de inversion de bajo capital que Panaderia "dDulce Catalina" ofrece a todos aquellos emprendedores e inversores que quieran diversificar sus actividades.</p>
+                <p>las francquicias es una posibilidad de inversion de bajo capital que Panaderia &quot;Dulce Catalina&quot; ofrece a todos aquellos emprendedores e inversores que quieran diversificar sus actividades.</p>
                 <h4>Franquicia Carlos Paz 1</h4>
                 <p>Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Velit officia rerum voluptates veniam rem est, harum odit repudiandae facilis ut laborum eos in, fugiat corporis esse itaque iste voluptate nam.</p>
-                <p>TU TAMBIEN PUEDES FORMAR PARTE DE "DULCE CATALINA".. <br /> Visita nuestros canales de contacto. <a href="https://ceddevelopment.000webhostapp.com/#contacto">AQUI.</a> </p>
+                <p>TU TAMBIEN PUEDES FORMAR PARTE DE &quot;DULCE CATALINA&quot;.. <br /> Visita nuestros canales de contacto. <a href="https://ceddevelopment.000webhostapp.com/#contacto">AQUI.</a> </p>
             </div>
 
         </div>

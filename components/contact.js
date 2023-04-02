@@ -5,7 +5,7 @@ export default function Contact() {
         <div id="contacto" className=" margin margin-b">
             <div className="row h-100 justify-content-center align-items-center">
 
-                <h3 className="title">CONTACTO / REDES</h3>
+                <h3 className="title">CONTACTO - REDES</h3>
 
                 <div className="my-2 col-md-6 border rounded-3 p-4 fondo" >
                     <h5 className='text-center'>FORMULARIO DE CONTACTO</h5>
