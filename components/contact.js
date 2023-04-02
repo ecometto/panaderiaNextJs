@@ -28,7 +28,7 @@ export default function Contact() {
 
 
                 <div className="contacto col-md-6 text-center">
-                    <h3>"DULCE CATALINA" EN LAS REDES</h3>
+                    <h3>DULCE CATALINA EN LAS REDES</h3>
                     <ul>
                         <li>
                             <a href="mailto:maguirre@maguirre.com.ar"> <i className="fa fa-envelope-o"></i> Contactanos por e-mail
