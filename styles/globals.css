@@ -35,6 +35,8 @@ html {
   height: 160px;
 }
 .carousel-inner{
+  margin: auto;
+  max-width: 600px;
   max-height: 300px;
 }
 

@@ -1,8 +1,12 @@
 import React from 'react'
 
+import Layout from './Layout'
+
 export default function Sucursales() {
     return (
-        <div className="margin" id='sucursales'>
+<Layout>
+
+<div className="margin" id='sucursales'>
             <h3 className="title"> CONOCE NUESTRAS SUCURSALES...</h3>
 
             <div className="row">
@@ -48,5 +52,6 @@ export default function Sucursales() {
             </div>
 
         </div>
+</Layout>
     )
 }
